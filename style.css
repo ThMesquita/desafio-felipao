@@ -1,0 +1,44 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  font-family: sans-serif;
+}
+
+section {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+p {
+  font-size: 24px;
+  text-align: center;
+  margin-bottom: 4px;
+}
+
+input {
+  font-size: 24px;
+  padding: 4px;
+}
+
+h1{
+  font-size: 36px;
+  font-weight: normal;
+  text-align: center;
+}
+
+#botao {
+  display: none;
+  margin-top: 20px;
+  font-size: 24px;
+  padding: 4px;
+}
