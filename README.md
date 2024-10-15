@@ -2,6 +2,13 @@
 
 Este projeto faz parte do "Desafio do Felipão" proposto pela DIO. O objetivo do desafio é criar uma página interativa onde o usuário pode inserir o nome de um herói e o seu nível, e o sistema classificará o herói em diferentes categorias baseadas no nível informado.
 
+## 🚀 Teste o Desafio
+
+[👉 Acesse o Desafio](https://thmesquita.github.io/desafio-felipao/)
+
+Sinta-se à vontade para inserir diferentes nomes de heróis e níveis para ver como a classificação é feita. Aproveite a interatividade e descubra em qual nível o seu herói se encontra!
+
+
 ## 📜 Descrição do Desafio
 
 O desafio envolve a criação de um pequeno sistema em JavaScript que recebe como entrada o nome e o nível de um herói. Com base no valor do nível, o sistema classifica o herói em uma das seguintes categorias:
