@@ -4,7 +4,7 @@ Este projeto faz parte do 'Desafio do Felipão', proposto pela DIO. O objetivo d
 
 ## 🚀 Teste o Desafio
 
-[👉 Acesse o Desafio](https://thmesquita.github.io/desafio-felipao/)
+[👉 Acesse o minigame](https://thmesquita.github.io/desafio-felipao/)
 
 Sinta-se à vontade para inserir diferentes nomes de heróis e níveis para ver como a classificação é feita. Aproveite a interatividade e descubra em qual nível o seu herói se encontra!
 
