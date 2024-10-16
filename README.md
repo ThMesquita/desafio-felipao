@@ -1,6 +1,6 @@
 # Desafio do Felipão - DIO
 
-Este projeto faz parte do "Desafio do Felipão" proposto pela DIO. O objetivo do desafio é criar uma página interativa onde o usuário pode inserir o nome de um herói e o seu nível, e o sistema classificará o herói em diferentes categorias baseadas no nível informado.
+Este projeto faz parte do 'Desafio do Felipão', proposto pela DIO. O objetivo do desafio é criar um sistema que classificará o herói em diferentes categorias com base no nível informado.
 
 ## 🚀 Teste o Desafio
 
